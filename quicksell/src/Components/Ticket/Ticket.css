@@ -1,0 +1,22 @@
+/* Ticket.css */
+.ticket {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ticket h3 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .ticket p {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
+  /* Customize styles as needed */
+  
